@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.grid {
+  display: grid;
+    /* ここから下に書いてみよう！ */
+}
+
+.card {
+  background: #f0f8ff;
+  padding: 16px;
+  border: 1px solid #ccc;
+}

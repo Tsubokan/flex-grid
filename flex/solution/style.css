@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.item {
+  padding: 16px;
+  background: red;
+  margin: 8px;
+}

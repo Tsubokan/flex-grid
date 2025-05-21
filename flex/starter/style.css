@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  /* ここから下に書いてみよう！ */
+}
+
+.item {
+  padding: 16px;
+  background: red;
+  margin: 8px;
+}
